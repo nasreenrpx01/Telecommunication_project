@@ -147,4 +147,4 @@ if st.button("Predict Churn"):
 
 # Footer
 st.markdown("---")
-st.markdown("Developed by Nasreen Fatima")
+st.markdown("Developed by Group 1")
